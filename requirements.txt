@@ -1,0 +1,9 @@
+django
+django-ninja-extra
+langchain_community
+langchain-openai
+langsmith
+python-dotenv
+langgraph
+django-cors-headers
+rav
